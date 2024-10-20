@@ -1,0 +1,3 @@
+[submodule "01-projects/ishanlearnsprog"]
+	path = 01-projects/ishanlearnsprog
+	url = git@github.com:ishanlearnsprog/ishanlearnsprog.git

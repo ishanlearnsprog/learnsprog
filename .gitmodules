@@ -1,3 +1,9 @@
 [submodule "02-areas/ishanlearnsprog"]
 	path = 02-areas/ishanlearnsprog
 	url = git@github.com:ishanlearnsprog/ishanlearnsprog.git
+[submodule "01-projects/dsa"]
+	path = 01-projects/dsa
+	url = git@github.com:ishanlearnsprog/dsa.git
+[submodule "01-projects/writers-room"]
+	path = 01-projects/writers-room
+	url = git@github.com:ishanlearnsprog/writers-room.git

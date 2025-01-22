@@ -7,3 +7,6 @@
 [submodule "01-projects/writers-room"]
 	path = 01-projects/writers-room
 	url = git@github.com:ishanlearnsprog/writers-room.git
+[submodule "02-areas/todo"]
+	path = 02-areas/todo
+	url = git@github.com:ishanlearnsprog/todo.git

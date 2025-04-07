@@ -16,3 +16,6 @@
 [submodule "99-archive/cliniscientia"]
 	path = 99-archive/cliniscientia
 	url = git@github.com:ishanlearnsprog/cliniscientia.git
+[submodule "01-projects/report-fetch"]
+	path = 01-projects/report-fetch
+	url = git@github.com:ishanlearnsprog/report-fetch.git

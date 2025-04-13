@@ -19,3 +19,6 @@
 [submodule "01-projects/report-fetch"]
 	path = 01-projects/report-fetch
 	url = git@github.com:ishanlearnsprog/report-fetch.git
+[submodule "01-projects/portfolio"]
+	path = 01-projects/portfolio
+	url = git@github.com:ishanlearnsprog/portfolio.git

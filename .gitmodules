@@ -4,15 +4,9 @@
 [submodule "01-projects/dsa"]
 	path = 01-projects/dsa
 	url = git@github.com:ishanlearnsprog/dsa.git
-[submodule "01-projects/writers-room"]
-	path = 01-projects/writers-room
-	url = git@github.com:ishanlearnsprog/writers-room.git
 [submodule "02-areas/todo"]
 	path = 02-areas/todo
 	url = git@github.com:ishanlearnsprog/todo.git
-[submodule "01-projects/ddtrack"]
-	path = 01-projects/ddtrack
-	url = git@github.com:ishanlearnsprog/ddtrack.git
 [submodule "99-archive/cliniscientia"]
 	path = 99-archive/cliniscientia
 	url = git@github.com:ishanlearnsprog/cliniscientia.git

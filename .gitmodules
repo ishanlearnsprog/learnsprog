@@ -16,3 +16,6 @@
 [submodule "01-projects/portfolio"]
 	path = 01-projects/portfolio
 	url = git@github.com:ishanlearnsprog/portfolio.git
+[submodule "01-projects/ddtrack"]
+	path = 01-projects/ddtrack
+	url = git@github.com:ishanlearnsprog/ddtrack.git

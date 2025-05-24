@@ -1,2 +1,6 @@
 03-misc
 .DS_store
+
+# Local Netlify folder
+.netlify
+.mypy_cache

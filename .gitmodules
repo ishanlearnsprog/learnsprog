@@ -1,9 +1,6 @@
 [submodule "02-areas/ishanlearnsprog"]
 	path = 02-areas/ishanlearnsprog
 	url = git@github.com:ishanlearnsprog/ishanlearnsprog.git
-[submodule "01-projects/dsa"]
-	path = 01-projects/dsa
-	url = git@github.com:ishanlearnsprog/dsa.git
 [submodule "02-areas/todo"]
 	path = 02-areas/todo
 	url = git@github.com:ishanlearnsprog/todo.git
@@ -19,3 +16,6 @@
 [submodule "01-projects/cliniscientia-api"]
 	path = 01-projects/cliniscientia-api
 	url = git@github.com:ishanlearnsprog/cliniscientia-api.git
+[submodule "02-areas/dsa"]
+	path = 02-areas/dsa
+	url = git@github.com:ishanlearnsprog/dsa.git

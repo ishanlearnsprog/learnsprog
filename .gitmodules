@@ -19,3 +19,6 @@
 [submodule "02-areas/dsa"]
 	path = 02-areas/dsa
 	url = git@github.com:ishanlearnsprog/dsa.git
+[submodule "01-projects/mental-maths"]
+	path = 01-projects/mental-maths
+	url = git@github.com:ishanlearnsprog/mental-maths.git

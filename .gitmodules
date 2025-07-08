@@ -16,3 +16,6 @@
 [submodule "01-projects/mental-maths"]
 	path = 01-projects/mental-maths
 	url = git@github.com:ishanlearnsprog/mental-maths.git
+[submodule "01-projects/dtrack"]
+	path = 01-projects/dtrack
+	url = git@github.com:ishanlearnsprog/dtrack.git

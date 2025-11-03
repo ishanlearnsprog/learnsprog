@@ -1,15 +1,18 @@
-[submodule "02-areas/ishanlearnsprog"]
-	path = 02-areas/ishanlearnsprog
-	url = git@github.com:ishanlearnsprog/ishanlearnsprog.git
-[submodule "02-areas/todo"]
-	path = 02-areas/todo
-	url = git@github.com:ishanlearnsprog/todo.git
-[submodule "01-projects/cliniscientia"]
-	path = 01-projects/cliniscientia
+[submodule "cliniscientia"]
+	path = cliniscientia
 	url = git@github.com:ishanlearnsprog/cliniscientia.git
-[submodule "01-projects/cliniscientia-api"]
-	path = 01-projects/cliniscientia-api
+[submodule "cliniscientia-api"]
+	path = cliniscientia-api
 	url = git@github.com:ishanlearnsprog/cliniscientia-api.git
-[submodule "01-projects/mental-maths"]
-	path = 01-projects/mental-maths
+[submodule "ishanlearnsprog"]
+	path = ishanlearnsprog
+	url = git@github.com:ishanlearnsprog/ishanlearnsprog.git
+[submodule "mental-maths"]
+	path = mental-maths
 	url = git@github.com:ishanlearnsprog/mental-maths.git
+[submodule "my-bash-scripts"]
+	path = my-bash-scripts
+	url = git@github.com:ishanlearnsprog/my-bash-scripts.git
+[submodule "my-web-apps-150"]
+	path = my-web-apps-150
+	url = git@github.com:ishanlearnsprog/my-web-apps-150.git

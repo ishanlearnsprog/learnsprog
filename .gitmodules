@@ -16,3 +16,6 @@
 [submodule "my-web-apps-150"]
 	path = my-web-apps-150
 	url = git@github.com:ishanlearnsprog/my-web-apps-150.git
+[submodule "musicd"]
+	path = musicd
+	url = git@github.com:ishanlearnsprog/musicd.git

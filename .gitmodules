@@ -19,3 +19,6 @@
 [submodule "musicd"]
 	path = musicd
 	url = git@github.com:ishanlearnsprog/musicd.git
+[submodule "tag"]
+	path = tag
+	url = git@github.com:ishanlearnsprog/tag.git

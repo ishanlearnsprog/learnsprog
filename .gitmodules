@@ -22,3 +22,6 @@
 [submodule "tag"]
 	path = tag
 	url = git@github.com:ishanlearnsprog/tag.git
+[submodule "job-finder"]
+	path = job-finder
+	url = git@github.com:ishanlearnsprog/job-finder.git
